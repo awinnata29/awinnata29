@@ -33,13 +33,12 @@
   <br/>
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=awinnata29&theme=react-dark&hide_border=true" />
 </div>
-<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="awinnata" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/awinnata?trk=profile-badge">Awin Nata</a></div>
               
 ---
 
 ## 🌐 **Connect with me**
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/awinnata" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/awinnata29" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://instagram.com/awinnataa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
