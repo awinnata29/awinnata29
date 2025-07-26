@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=9F51F7&width=500&lines=Hi%2C+I'm+Awin+Nata;Freelance+Web+Developer;React+%26+Tailwind+Enthusiast;Love+Building+Modern+UI" alt="Typing Animation" />
-</p>
----
+</h1>
+
 <h3 align="center">I love building modern websites and interactive UI</h3>
 
 ---
