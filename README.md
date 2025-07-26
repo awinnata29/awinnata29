@@ -33,7 +33,8 @@
   <br/>
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=awinnata29&theme=react-dark&hide_border=true" />
 </div>
-
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="awinnata" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/awinnata?trk=profile-badge">Awin Nata</a></div>
+              
 ---
 
 ## 🌐 **Connect with me**
