@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Awin Nata</h1>
-<h3 align="center">Programmer Freelance | Web Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Awin+Nata;Programmer+Freelance;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">I love building modern websites and interactive UI</h3>
 
 ---
 
