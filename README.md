@@ -27,23 +27,50 @@
 ---
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=awinnata29&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=awinnata29&theme=radical" />
-  <br/>
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=awinnata29&theme=react-dark&hide_border=true" />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=awinnata29&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=awinnata29&theme=tokyonight&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awinnata29&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
 </div>
-              
+
 ---
 
 ## 🌐 **Connect with me**
 <p align="center">
-  <a href="https://linkedin.com/in/awinnata" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/awinnata29" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://instagram.com/awinnataa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/awinnata" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/awinnata29" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://instagram.com/awinnataa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
 
 ## ✨ **Quote**
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i><br>— <b>Cory House</b></p>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <br>
+  — <b>Cory House</b>
+</p>
