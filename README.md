@@ -13,8 +13,8 @@
 ## 🚀 **About Me**
 - 🔭 I’m currently working on **Modern Web Development**
 - 🌱 I’m currently learning **React, TailwindCSS, Laravel, Python**
-- 👨‍💻 All of my projects are available at **[awinnata.site](https://awinnata.site/)**
-- 📫 Reach me at **awinnata08@gmail.com**
+- 👨‍💻 All of my projects are available at **[awinnata.dev](https://awinnata.dev/)**
+- 📫 Reach me at **cs@akundigital.id**
 - ⚡ Fun fact: **I love creating animated & interactive UI**
 
 ---
@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://instagram.com/awinnataa" target="_blank">
+  <a href="https://instagram.com/awinnata29" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
