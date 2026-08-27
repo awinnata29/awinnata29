@@ -31,27 +31,33 @@
 <div align="center">
 
   <img
+    width="32%"
     src="https://streak-stats.demolab.com?user=awinnata29&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 
-  <br/><br/>
-
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awinnata29&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-
-  <br/><br/>
-
-  <img
+    width="32%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awinnata29&theme=tokyonight"
     alt="Repos Per Language"
   />
 
   <img
+    width="32%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awinnata29&theme=tokyonight"
     alt="Most Commit Language"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awinnata29&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 
 </div>
