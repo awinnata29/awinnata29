@@ -50,18 +50,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-  <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awinnata29&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-
-</div>
-
 ---
 
 ## 🌐 **Connect with me**
