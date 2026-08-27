@@ -28,27 +28,11 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-
-  <img
-    width="32%"
-    src="https://streak-stats.demolab.com?user=awinnata29&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awinnata29&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awinnata29&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-
-</div>
+<p align="center">
+  <img width="31%" src="https://streak-stats.demolab.com?user=awinnata29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awinnata29&theme=tokyonight" alt="Repos Per Language" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awinnata29&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
 ---
 
