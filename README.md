@@ -31,20 +31,27 @@
 <div align="center">
 
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=awinnata29&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="48%"
     src="https://streak-stats.demolab.com?user=awinnata29&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 
   <br/><br/>
 
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awinnata29&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awinnata29&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awinnata29&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awinnata29&theme=tokyonight"
+    alt="Most Commit Language"
   />
 
 </div>
